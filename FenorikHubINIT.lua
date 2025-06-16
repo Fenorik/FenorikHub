@@ -3,5 +3,5 @@ if game.PlaceId == 109983668079237 then
 elseif game.PlaceId == 126884695634066 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Fenorik/FenorikHub/refs/heads/main/FenorikHubGAG.lua"))()
 else
-  warn("Feronik Hub does not support your currently game.")
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fenorik/FenorikHub/refs/heads/main/FenorikHubUNIVERSAL.lua"))()
 end

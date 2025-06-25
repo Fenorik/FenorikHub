@@ -1,5 +1,5 @@
 if game.PlaceId == 109983668079237 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fenorik/FenorikHub/refs/heads/main/FenorikHubSTABXeni.lua"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fenorik/FenorikHub/refs/heads/main/FenorikHubSTABXeno.lua"))()
 elseif game.PlaceId == 126884695634066 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Fenorik/FenorikHub/refs/heads/main/FenorikHubGAGXeno.lua"))()
 else
